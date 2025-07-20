@@ -1,0 +1,21 @@
+---
+title: "Measures of Macroinvertebrate Community Index and Nitrate in Ecosystem Health"
+description: |
+  This assignment was done for ENVSCI 201: Natural and Human Environmental Systems. In this assignment we were asked to create an infographic and answer questions regarding the measures of macroinvertebrate community index (MCI) and nitrate for ecosystem health within freshwater bodies.  
+author:
+  - name: Nancy Huang 
+date: "`r Sys.Date()`"
+output: 
+  distill::distill_article:
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+Welcome to my 'Freshwater' assignment that I did as part of ENVSCI 201: Natural and Human Environmental Systems. The skills that I have gained through this assignment involve working with environmental data and looking at how environmental health is assessed and managed. I also took out some research, looking for peer-reviewed and grey literature where they discuss the scientific basis of nitrate and MCI measures of ecosystem health. 
+
+In the construction of the infographic we practiced manipulating environmental data and looked at how environmental health is managed in freshwater ecosystems. I was able to learn some excel functions in the creation of the two graphs, in order to visualise attribute bands based on MCI and nitrate, and discover if there is a correlation. 
+![](Infographic.png)
+
+Then we were provided with a series of three questions, where we had to carry out some research on peer-reviewed literature and grey literature to provide answers for the questions. For the first question, we were asked to look for material in the media, while the second question asked that we use peer-reviewed and grey literature. In the final question, I analysed the graphs created using the environmental data, and compared the effects of MCI and nitrate in assessing ecosystem health. 
+![](Answers.png)

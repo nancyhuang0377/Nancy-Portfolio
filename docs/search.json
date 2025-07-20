@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "author": [],
+      "contents": "\nKia ora, my name is Nancy Huang, and I am currently in my third year at the University of Auckland, doing a Bachelor of Science majoring in Earth Science. This portfolio is to display some of the work I have done throughout my time in university, and to showcase some of the skills I have gained through the work I have done. It is also to indicate the type of work I can produce based on different contexts and different courses that I have taken through university. Thanks for taking the time to have a look!\n\n\n\n",
+      "last_modified": "2025-07-09T10:52:18+12:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Nancy's University Portfolio",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2025-07-09T10:45:45+12:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

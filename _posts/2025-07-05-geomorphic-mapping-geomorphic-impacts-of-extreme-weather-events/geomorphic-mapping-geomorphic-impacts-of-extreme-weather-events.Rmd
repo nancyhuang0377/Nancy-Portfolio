@@ -1,0 +1,35 @@
+---
+title: "Geomorphic Mapping: Geomorphic Impacts of Extreme Weather Events"
+description: |
+  This assignment was done for GEOG 262: Geomorphology. In this assignment we did some digital mapping of where landslide events were occurring in Golden Bay in the South Island after the 2011 storm event, and then some discussion on the impacts and responses to landsliding events. 
+author:
+  - name: Nancy Huang 
+date: "`r Sys.Date()`"
+output: 
+  distill::distill_article:
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Welcome to my geomorphic mapping exercise that I did as part of GEOG 262: Geomorphology! In this assignment we looked at the effects of landsliding events as a result of the extreme 2011 storm, and the geomorphic impacts that the slips and storm had on the surface. 
+
+Through this assignment I gained some skills in digital mapping, particularly using Google Earth, using different tools like LiDAR imagery and looking at geomorphology at different timescales. The GEOG 262 course aided my competency in using Google Earth, and enhanced my mapping skills and recognition of geomorphic features. I was then able to use the map and GIS layers, in addition to other resources, to assess the landsliding risk in the area, and provide recommendations for mitigation and adaptation plans for the Golden Bay community. 
+
+
+**Geomorphic map**
+
+I started off on Google Earth Pro with the area of interest (Mohua/Golden Bay), where I was able to explore some GIS layers including geology, DEM of difference, slope degree, and erosion risk index. Those layers helped me identify areas that have a high susceptibility for slips, especially with extreme weather events that are prone to cause flooding and stability issues. After construction of the geomorphic map, highlighting areas with slips, I found that the slides occurred along the areas geomorphically mapped as hillslopes, showing those were the areas of instability.  
+![](map.png)
+
+**Discussion**
+
+To see discussion, please access through [**link.**](https://drive.google.com/file/d/1GWCcwGkjVY4aG332hyMDSyjIsXjPJojL/view?usp=sharing)
+
+Using the GIS layers on the map and the areas where landslides had been mapped, I was able to identify what the key controls were for landsliding, and following on that I then indicated what the future landslide risk for the area looks like.  
+
+
+After that, I then investigated the downstream impacts of landsliding from extreme weather events on the Ligar Bay community, looking specifically at infrastructure, lifestyle, and economy, using media resources. 
+
+Finally, I conducted some research on both the immediate and long-term impacts, and using that I then made some recommendations on what plans can be put in place, thinking specifically of the root causes of vulnerability, to reduce risk and better protect the community. Please refer to discussion for more on my findings from the map, impacts, and my recommendations to reduce risk to do with extreme weather impacts. 

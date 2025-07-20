@@ -1,0 +1,19 @@
+---
+title: "Bree Creek: Structural Geology using the Bree Creek Quadrangle"
+description: |
+  This assignment was done for EARTHSCI 208: Earth Structure. This assignment is contains a series of practical structural geology work done only using a map with structural information, and then using the work done to create a report on the geology contained in the map.    
+author:
+  - name: Nancy Huang 
+date: "`r Sys.Date()`"
+output: 
+  distill::distill_article:
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+Welcome to my Bree Creek report that I did as part of EARTHSCI 208: Earth Structure! This assignment was based on all the practical structural geology work that we did throughout the course, based on the Bree Creek Quadrangle collating all the data together to write a professional report on the area. 
+
+The [**Bree Creek Report**](https://drive.google.com/file/d/1_DmH21-5O45ZnluEoC494s4PHXWjoeWo/view?usp=sharing) allowed me to engage on my structural geology skills, particularly in utilising the information on a map and projecting into the subsurface, and understanding tectonic influences on this fictional area. In this assignment I learnt how to construct a cross-section using a geologic map, create stereonets to discover the attributes of folding and faulting in the area, leading to an understanding in the tectonic history of the region. It then allowed me to hone in my report writing skills, where I constructed a report using the information retrieved in my practical work to describe the geological history portrayed in the map. 
+
+In the construction of the report, I learnt to write an abstract, create a table of contents, and how to structure a scientific report. This assignment was particularly solidified the direction I wanted to take in my Earth Science career in regards to a future in research. 
